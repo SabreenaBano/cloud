@@ -3,7 +3,7 @@
           i)  Go to AWS IAM
           ii) Create a new user
           iii)Attach existing policies 
-          iv) download access keys
+          iv) download access keys.
  # Step 2: Install and Configure AWS CLI
           i) Install AWS CLI
           ii) configure aws cli
